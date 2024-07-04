@@ -1,0 +1,12 @@
+
+body {
+    background-image: url('https://minervasf.es/images/formanag_fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+
+.login-container {
+    margin-top: 100px;
+}
